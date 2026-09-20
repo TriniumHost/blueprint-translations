@@ -178,10 +178,10 @@
     "A descriptive name for your database instance.": "Um nome descritivo para a sua instância de banco de dados.",
     "Connections From": "Conexões de",
     "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "De onde as conexões devem ser permitidas. Deixe em branco para permitir conexões de qualquer lugar.",
-    "Create Database": "Criar Banco de Dados"
+    "Create Database": "Criar Banco de Dados",
     "Assigned CPU": "CPU atribuída",
     "MiB /": "MiB /",
     "MiB": "MiB",
     "Assigned Memory": "Memória atribuída",
-    "Assigned Disk": "Disco atribuído",
+    "Assigned Disk": "Disco atribuído"
 }
